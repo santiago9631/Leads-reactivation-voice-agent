@@ -1,0 +1,12 @@
+litellm
+vapi_server_sdk
+retell-sdk
+hubspot-api-client
+pyairtable
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+python-dotenv
+uvicorn
+gunicorn
+fastapi
